@@ -4,3 +4,7 @@ output:
   html_document: default
 ---
 print("this is a test push")
+
+git config --global user.email "s2175010@ed.ac.uk"
+git config --global user.name "Emma Thomson"
+
